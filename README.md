@@ -32,4 +32,8 @@ For Windows:
 Then:
 ```sh
 npm install -g pnpm
+
+```
+```sh
+cd aluraOS && pnpm i && pnpm start
 ```
